@@ -1,4 +1,4 @@
-# ticket-predictions-editor
+# theme-editor
 
 ## Project setup
 ```
